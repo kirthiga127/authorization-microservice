@@ -1,0 +1,30 @@
+2022-05-22_01-33-05 [main] ERROR c.p.a.e.GlobalExceptionHandler - Required request body is missing: public org.springframework.http.ResponseEntity<?> com.pms.authorization.controller.JwtAuthenticationController.createAuthenticationToken(com.pms.authorization.model.JwtRequest) throws com.pms.authorization.exception.AuthorizationException
+2022-05-22_01-33-05 [main] ERROR c.p.a.e.GlobalExceptionHandler - Required request body is missing: public org.springframework.http.ResponseEntity<?> com.pms.authorization.controller.JwtAuthenticationController.createAuthenticationToken(com.pms.authorization.model.JwtRequest) throws com.pms.authorization.exception.AuthorizationException
+2022-05-22_01-33-05 [main] ERROR c.p.a.e.GlobalExceptionHandler - Cannot invoke "org.springframework.security.core.Authentication.getCredentials()" because "auth" is null
+2022-05-22_01-33-05 [main] ERROR c.p.a.e.GlobalExceptionHandler - Cannot invoke "org.springframework.security.core.Authentication.getCredentials()" because "auth" is null
+2022-05-22_01-33-07 [main] ERROR c.p.a.e.GlobalExceptionHandler - message
+2022-05-22_01-33-07 [main] ERROR c.p.a.e.GlobalExceptionHandler - message
+2022-05-22_13-52-27 [main] ERROR c.p.a.e.GlobalExceptionHandler - Required request body is missing: public org.springframework.http.ResponseEntity<?> com.pms.authorization.controller.JwtAuthenticationController.createAuthenticationToken(com.pms.authorization.model.JwtRequest) throws com.pms.authorization.exception.AuthorizationException
+2022-05-22_13-52-27 [main] ERROR c.p.a.e.GlobalExceptionHandler - Required request body is missing: public org.springframework.http.ResponseEntity<?> com.pms.authorization.controller.JwtAuthenticationController.createAuthenticationToken(com.pms.authorization.model.JwtRequest) throws com.pms.authorization.exception.AuthorizationException
+2022-05-22_13-52-27 [main] ERROR c.p.a.e.GlobalExceptionHandler - Cannot invoke "org.springframework.security.core.Authentication.getCredentials()" because "auth" is null
+2022-05-22_13-52-27 [main] ERROR c.p.a.e.GlobalExceptionHandler - Cannot invoke "org.springframework.security.core.Authentication.getCredentials()" because "auth" is null
+2022-05-22_13-52-29 [main] ERROR c.p.a.e.GlobalExceptionHandler - message
+2022-05-22_13-52-29 [main] ERROR c.p.a.e.GlobalExceptionHandler - message
+2022-05-22_18-05-43 [main] ERROR c.p.a.e.GlobalExceptionHandler - Required request body is missing: public org.springframework.http.ResponseEntity<?> com.pms.authorization.controller.JwtAuthenticationController.createAuthenticationToken(com.pms.authorization.model.JwtRequest) throws com.pms.authorization.exception.AuthorizationException
+2022-05-22_18-05-43 [main] ERROR c.p.a.e.GlobalExceptionHandler - Required request body is missing: public org.springframework.http.ResponseEntity<?> com.pms.authorization.controller.JwtAuthenticationController.createAuthenticationToken(com.pms.authorization.model.JwtRequest) throws com.pms.authorization.exception.AuthorizationException
+2022-05-22_18-05-43 [main] ERROR c.p.a.e.GlobalExceptionHandler - Cannot invoke "org.springframework.security.core.Authentication.getCredentials()" because "auth" is null
+2022-05-22_18-05-43 [main] ERROR c.p.a.e.GlobalExceptionHandler - Cannot invoke "org.springframework.security.core.Authentication.getCredentials()" because "auth" is null
+2022-05-22_18-05-45 [main] ERROR c.p.a.e.GlobalExceptionHandler - message
+2022-05-22_18-05-45 [main] ERROR c.p.a.e.GlobalExceptionHandler - message
+2022-05-22_21-29-18 [main] ERROR c.p.a.e.GlobalExceptionHandler - Required request body is missing: public org.springframework.http.ResponseEntity<?> com.pms.authorization.controller.JwtAuthenticationController.createAuthenticationToken(com.pms.authorization.model.JwtRequest) throws com.pms.authorization.exception.AuthorizationException
+2022-05-22_21-29-18 [main] ERROR c.p.a.e.GlobalExceptionHandler - Required request body is missing: public org.springframework.http.ResponseEntity<?> com.pms.authorization.controller.JwtAuthenticationController.createAuthenticationToken(com.pms.authorization.model.JwtRequest) throws com.pms.authorization.exception.AuthorizationException
+2022-05-22_21-29-18 [main] ERROR c.p.a.e.GlobalExceptionHandler - Cannot invoke "org.springframework.security.core.Authentication.getCredentials()" because "auth" is null
+2022-05-22_21-29-18 [main] ERROR c.p.a.e.GlobalExceptionHandler - Cannot invoke "org.springframework.security.core.Authentication.getCredentials()" because "auth" is null
+2022-05-22_21-29-21 [main] ERROR c.p.a.e.GlobalExceptionHandler - message
+2022-05-22_21-29-21 [main] ERROR c.p.a.e.GlobalExceptionHandler - message
+2022-05-22_23-26-10 [main] ERROR c.p.a.e.GlobalExceptionHandler - Required request body is missing: public org.springframework.http.ResponseEntity<?> com.pms.authorization.controller.JwtAuthenticationController.createAuthenticationToken(com.pms.authorization.model.JwtRequest) throws com.pms.authorization.exception.AuthorizationException
+2022-05-22_23-26-10 [main] ERROR c.p.a.e.GlobalExceptionHandler - Required request body is missing: public org.springframework.http.ResponseEntity<?> com.pms.authorization.controller.JwtAuthenticationController.createAuthenticationToken(com.pms.authorization.model.JwtRequest) throws com.pms.authorization.exception.AuthorizationException
+2022-05-22_23-26-10 [main] ERROR c.p.a.e.GlobalExceptionHandler - Cannot invoke "org.springframework.security.core.Authentication.getCredentials()" because "auth" is null
+2022-05-22_23-26-10 [main] ERROR c.p.a.e.GlobalExceptionHandler - Cannot invoke "org.springframework.security.core.Authentication.getCredentials()" because "auth" is null
+2022-05-22_23-26-14 [main] ERROR c.p.a.e.GlobalExceptionHandler - message
+2022-05-22_23-26-14 [main] ERROR c.p.a.e.GlobalExceptionHandler - message

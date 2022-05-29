@@ -1,0 +1,34 @@
+2022-05-18_02-24-43 [main] ERROR c.p.a.e.GlobalExceptionHandler - Required request body is missing: public org.springframework.http.ResponseEntity<?> com.pms.authorization.controller.JwtAuthenticationController.createAuthenticationToken(com.pms.authorization.model.JwtRequest) throws com.pms.authorization.exception.AuthorizationException
+2022-05-18_02-24-43 [main] ERROR c.p.a.e.GlobalExceptionHandler - Required request body is missing: public org.springframework.http.ResponseEntity<?> com.pms.authorization.controller.JwtAuthenticationController.createAuthenticationToken(com.pms.authorization.model.JwtRequest) throws com.pms.authorization.exception.AuthorizationException
+2022-05-18_02-24-43 [main] ERROR c.p.a.e.GlobalExceptionHandler - Cannot invoke "org.springframework.security.core.Authentication.getCredentials()" because "auth" is null
+2022-05-18_02-24-43 [main] ERROR c.p.a.e.GlobalExceptionHandler - Cannot invoke "org.springframework.security.core.Authentication.getCredentials()" because "auth" is null
+2022-05-18_02-25-01 [main] ERROR c.p.a.e.GlobalExceptionHandler - message
+2022-05-18_02-25-01 [main] ERROR c.p.a.e.GlobalExceptionHandler - message
+2022-05-18_02-29-59 [http-nio-8400-exec-1] ERROR c.p.a.config.JwtRequestFilter - JWT Token has expired
+2022-05-18_03-00-57 [main] ERROR c.p.a.e.GlobalExceptionHandler - Required request body is missing: public org.springframework.http.ResponseEntity<?> com.pms.authorization.controller.JwtAuthenticationController.createAuthenticationToken(com.pms.authorization.model.JwtRequest) throws com.pms.authorization.exception.AuthorizationException
+2022-05-18_03-00-57 [main] ERROR c.p.a.e.GlobalExceptionHandler - Required request body is missing: public org.springframework.http.ResponseEntity<?> com.pms.authorization.controller.JwtAuthenticationController.createAuthenticationToken(com.pms.authorization.model.JwtRequest) throws com.pms.authorization.exception.AuthorizationException
+2022-05-18_03-00-57 [main] ERROR c.p.a.e.GlobalExceptionHandler - Cannot invoke "org.springframework.security.core.Authentication.getCredentials()" because "auth" is null
+2022-05-18_03-00-57 [main] ERROR c.p.a.e.GlobalExceptionHandler - Cannot invoke "org.springframework.security.core.Authentication.getCredentials()" because "auth" is null
+2022-05-18_03-01-00 [main] ERROR c.p.a.e.GlobalExceptionHandler - message
+2022-05-18_03-01-00 [main] ERROR c.p.a.e.GlobalExceptionHandler - message
+2022-05-18_18-26-15 [http-nio-8400-exec-1] ERROR c.p.a.config.JwtRequestFilter - JWT Token has expired
+2022-05-18_18-26-15 [http-nio-8400-exec-3] ERROR c.p.a.config.JwtRequestFilter - JWT Token has expired
+2022-05-18_21-31-28 [main] ERROR c.p.a.e.GlobalExceptionHandler - message
+2022-05-18_21-31-28 [main] ERROR c.p.a.e.GlobalExceptionHandler - message
+2022-05-18_21-31-34 [SpringContextShutdownHook] ERROR o.h.t.s.i.SchemaDropperImpl$DelayedDropActionImpl - HHH000478: Unsuccessful: drop table if exists users CASCADE 
+2022-05-18_21-31-34 [SpringContextShutdownHook] ERROR o.h.t.s.i.SchemaDropperImpl$DelayedDropActionImpl - HHH000478: Unsuccessful: drop sequence if exists hibernate_sequence
+2022-05-18_21-31-34 [SpringContextShutdownHook] ERROR o.h.e.jdbc.spi.SqlExceptionHelper - Database is already closed (to disable automatic closing at VM shutdown, add ";DB_CLOSE_ON_EXIT=FALSE" to the db URL) [90121-200]
+2022-05-18_21-34-21 [main] ERROR c.p.a.e.GlobalExceptionHandler - message
+2022-05-18_21-34-21 [main] ERROR c.p.a.e.GlobalExceptionHandler - message
+2022-05-18_21-45-36 [main] ERROR c.p.a.e.GlobalExceptionHandler - message
+2022-05-18_21-45-36 [main] ERROR c.p.a.e.GlobalExceptionHandler - message
+2022-05-18_21-49-00 [main] ERROR c.p.a.e.GlobalExceptionHandler - message
+2022-05-18_21-49-00 [main] ERROR c.p.a.e.GlobalExceptionHandler - message
+2022-05-18_22-13-24 [main] ERROR c.p.a.e.GlobalExceptionHandler - message
+2022-05-18_22-13-24 [main] ERROR c.p.a.e.GlobalExceptionHandler - message
+2022-05-18_22-17-26 [main] ERROR c.p.a.e.GlobalExceptionHandler - Required request body is missing: public org.springframework.http.ResponseEntity<?> com.pms.authorization.controller.JwtAuthenticationController.createAuthenticationToken(com.pms.authorization.model.JwtRequest) throws com.pms.authorization.exception.AuthorizationException
+2022-05-18_22-17-26 [main] ERROR c.p.a.e.GlobalExceptionHandler - Required request body is missing: public org.springframework.http.ResponseEntity<?> com.pms.authorization.controller.JwtAuthenticationController.createAuthenticationToken(com.pms.authorization.model.JwtRequest) throws com.pms.authorization.exception.AuthorizationException
+2022-05-18_22-17-26 [main] ERROR c.p.a.e.GlobalExceptionHandler - Cannot invoke "org.springframework.security.core.Authentication.getCredentials()" because "auth" is null
+2022-05-18_22-17-26 [main] ERROR c.p.a.e.GlobalExceptionHandler - Cannot invoke "org.springframework.security.core.Authentication.getCredentials()" because "auth" is null
+2022-05-18_22-17-29 [main] ERROR c.p.a.e.GlobalExceptionHandler - message
+2022-05-18_22-17-29 [main] ERROR c.p.a.e.GlobalExceptionHandler - message

@@ -1,0 +1,12 @@
+com\pms\authorization\AuthorizatiionMicroserviceApplicationTests.class
+com\pms\authorization\exception\AuthorizationExceptionTest.class
+com\pms\authorization\model\JwtRequestTest.class
+com\pms\authorization\repository\UserDaoTest.class
+com\pms\authorization\exception\ExceptionDetailsTest.class
+com\pms\authorization\exception\GlobalExceptionHandlerTest.class
+com\pms\authorization\service\JwtUserDetailsServiceTest.class
+com\pms\authorization\config\JwtTokenUtilTest.class
+com\pms\authorization\controller\JwtAuthenticationControllerEndPointsTest.class
+com\pms\authorization\model\JwtResponseTest.class
+com\pms\authorization\controller\JwtAuthenticationControllerTest.class
+com\pms\authorization\model\UserModelTest.class

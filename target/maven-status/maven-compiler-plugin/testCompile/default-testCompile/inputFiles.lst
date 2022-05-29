@@ -1,0 +1,12 @@
+G:\Spring and Angular\pms-springboot-microservices\authorization-microservice\src\test\java\com\pms\authorization\repository\UserDaoTest.java
+G:\Spring and Angular\pms-springboot-microservices\authorization-microservice\src\test\java\com\pms\authorization\model\JwtResponseTest.java
+G:\Spring and Angular\pms-springboot-microservices\authorization-microservice\src\test\java\com\pms\authorization\service\JwtUserDetailsServiceTest.java
+G:\Spring and Angular\pms-springboot-microservices\authorization-microservice\src\test\java\com\pms\authorization\AuthorizatiionMicroserviceApplicationTests.java
+G:\Spring and Angular\pms-springboot-microservices\authorization-microservice\src\test\java\com\pms\authorization\exception\ExceptionDetailsTest.java
+G:\Spring and Angular\pms-springboot-microservices\authorization-microservice\src\test\java\com\pms\authorization\model\UserModelTest.java
+G:\Spring and Angular\pms-springboot-microservices\authorization-microservice\src\test\java\com\pms\authorization\exception\GlobalExceptionHandlerTest.java
+G:\Spring and Angular\pms-springboot-microservices\authorization-microservice\src\test\java\com\pms\authorization\controller\JwtAuthenticationControllerTest.java
+G:\Spring and Angular\pms-springboot-microservices\authorization-microservice\src\test\java\com\pms\authorization\controller\JwtAuthenticationControllerEndPointsTest.java
+G:\Spring and Angular\pms-springboot-microservices\authorization-microservice\src\test\java\com\pms\authorization\config\JwtTokenUtilTest.java
+G:\Spring and Angular\pms-springboot-microservices\authorization-microservice\src\test\java\com\pms\authorization\exception\AuthorizationExceptionTest.java
+G:\Spring and Angular\pms-springboot-microservices\authorization-microservice\src\test\java\com\pms\authorization\model\JwtRequestTest.java

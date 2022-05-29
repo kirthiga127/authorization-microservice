@@ -1,0 +1,12 @@
+2022-05-17_23-52-42 [main] ERROR c.p.a.e.GlobalExceptionHandler - Required request body is missing: public org.springframework.http.ResponseEntity<?> com.pms.authorization.controller.JwtAuthenticationController.createAuthenticationToken(com.pms.authorization.model.JwtRequest) throws com.pms.authorization.exception.AuthorizationException
+2022-05-17_23-52-42 [main] ERROR c.p.a.e.GlobalExceptionHandler - Required request body is missing: public org.springframework.http.ResponseEntity<?> com.pms.authorization.controller.JwtAuthenticationController.createAuthenticationToken(com.pms.authorization.model.JwtRequest) throws com.pms.authorization.exception.AuthorizationException
+2022-05-17_23-52-42 [main] ERROR c.p.a.e.GlobalExceptionHandler - Cannot invoke "org.springframework.security.core.Authentication.getCredentials()" because "auth" is null
+2022-05-17_23-52-42 [main] ERROR c.p.a.e.GlobalExceptionHandler - Cannot invoke "org.springframework.security.core.Authentication.getCredentials()" because "auth" is null
+2022-05-17_23-52-45 [main] ERROR c.p.a.e.GlobalExceptionHandler - message
+2022-05-17_23-52-45 [main] ERROR c.p.a.e.GlobalExceptionHandler - message
+2022-05-17_23-56-41 [main] ERROR c.p.a.e.GlobalExceptionHandler - Required request body is missing: public org.springframework.http.ResponseEntity<?> com.pms.authorization.controller.JwtAuthenticationController.createAuthenticationToken(com.pms.authorization.model.JwtRequest) throws com.pms.authorization.exception.AuthorizationException
+2022-05-17_23-56-41 [main] ERROR c.p.a.e.GlobalExceptionHandler - Required request body is missing: public org.springframework.http.ResponseEntity<?> com.pms.authorization.controller.JwtAuthenticationController.createAuthenticationToken(com.pms.authorization.model.JwtRequest) throws com.pms.authorization.exception.AuthorizationException
+2022-05-17_23-56-41 [main] ERROR c.p.a.e.GlobalExceptionHandler - Cannot invoke "org.springframework.security.core.Authentication.getCredentials()" because "auth" is null
+2022-05-17_23-56-41 [main] ERROR c.p.a.e.GlobalExceptionHandler - Cannot invoke "org.springframework.security.core.Authentication.getCredentials()" because "auth" is null
+2022-05-17_23-56-44 [main] ERROR c.p.a.e.GlobalExceptionHandler - message
+2022-05-17_23-56-44 [main] ERROR c.p.a.e.GlobalExceptionHandler - message
