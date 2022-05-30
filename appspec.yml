@@ -3,7 +3,7 @@ Resources:
 - TargetService:
 Type: AWS::ECS::Service
 Properties:
-TaskDefinition: "arn:aws:ecs:us-east-1:156962844638:task-definition/890387-pension-auth-task-definition:1"
+TaskDefinition: "arn:aws:ecs:us-east-1:156962844638:task-definition/890387-pension-auth-task-definition:5"
 LoadBalancerInfo:
 ContainerName: "890387-pension-auth-container"
 ContainerPort: 8400
